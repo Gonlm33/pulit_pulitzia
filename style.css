@@ -67,7 +67,7 @@ nav {
 .logo {
 
     width: 100px;
-    margin-left: 95px;
+    margin-left: 45px;
     margin-top: 30px;
     text-transform: uppercase;
     color: #fff;
@@ -352,7 +352,7 @@ nav {
 
 .card {
     background-color: #fff;
-    width: 250px;
+    width: 150px;
     border-radius: 15px;
     margin: 0px 15px;
     padding: 20px 35px;
@@ -360,7 +360,7 @@ nav {
 
 .card img {
     width: 100px;
-    margin-left: 5px;
+    margin-left: 0px;
     margin-top: 30px;
 }
 
@@ -459,7 +459,7 @@ nav {
 
 .img-02 {
     margin-left: 0px;
-    width: 150px;
+    width: 100px;
 }
 
 .img-03 {
