@@ -67,7 +67,7 @@ nav {
 .logo {
 
     width: 100px;
-    margin-left: 45px;
+    margin-left: 51px;
     margin-top: 30px;
     text-transform: uppercase;
     color: #fff;
@@ -352,16 +352,22 @@ nav {
 
 .card {
     background-color: #fff;
-    width: 150px;
+    width: 140px;
     border-radius: 15px;
     margin: 0px 15px;
-    padding: 20px 35px;
+    padding: 10px 30px;
 }
 
 .card img {
     width: 100px;
-    margin-left: 0px;
+    margin-left: -5px;
     margin-top: 30px;
+}
+
+.card h3 {
+    font-size: 15px;
+    margin-bottom: 15px;
+
 }
 
 .services-txt {
